@@ -1,2 +1,3 @@
+include ':serialport'
 include ':app'
 rootProject.name = "TestDevices"
